@@ -5,11 +5,18 @@
 
 ---
 
-## Connect with me
-[![YouTube](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/c/someotb)
-[![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.gg/yamasemen)
-
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.youtube.com/c/someotb" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="25" height="25"/>
+  </a>
+  <a href="https://discord.gg/yamasemen" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="25" height="25"/>
+  </a>
+  <a href="https://t.me/watashia12" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" alt="Telegram" width="25" height="25"/>
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
