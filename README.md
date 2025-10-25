@@ -19,18 +19,20 @@
 <table>
   <tr>
     <td valign="middle" align="left">
-        - [nutakoe](https://www.youtube.com/@Vertfil)
-        - [Two Door Cinema Club](https://www.youtube.com/channel/UC21j22BUI19MJ6F8IrxnjJg)
-        - [Hippie Sabotage](https://www.youtube.com/@HippieSabotage)
-        - [ПОШЛАЯ МОЛЛИ](https://www.youtube.com/@poshlayamolly)
-        - [Stephen](https://www.youtube.com/channel/UCWBRy5_pT-KAO8NFaGeETHg)
-        - [FACE](https://www.youtube.com/@facemoney)
-        - [ssshhhiiittt!!!](https://www.youtube.com/channel/UC9buQ3siM6ebgh_tEwWaGAg)
-        - [источник](https://www.youtube.com/@ustochnuk)
-        - [касание](https://www.youtube.com/channel/UCq2wdua2lFdQj1hmqKda0Rw)
-        - [CUPSIZE](https://www.youtube.com/channel/UCNpdKmV1hHFuKM6DUxGMOBw)
+      <p>Люблю код и музыку. Мои любимые исполнители:</p>
+      <p><a href="https://www.youtube.com/@Vertfil">nutakoe</a></p>
+      <p><a href="https://www.youtube.com/channel/UC21j22BUI19MJ6F8IrxnjJg">Two Door Cinema Club</a></p>
+      <p><a href="https://www.youtube.com/@HippieSabotage">Hippie Sabotage</a></p>
+      <p><a href="https://www.youtube.com/@poshlayamolly">ПОШЛАЯ МОЛЛИ</a></p>
+      <p><a href="https://www.youtube.com/channel/UCWBRy5_pT-KAO8NFaGeETHg">Stephen</a></p>
+      <p><a href="https://www.youtube.com/@facemoney">FACE</a></p>
+      <p><a href="https://www.youtube.com/channel/UC9buQ3siM6ebgh_tEwWaGAg">ssshhhiiittt!!!</a></p>
+      <p><a href="https://www.youtube.com/@ustochnuk">источник</a></p>
+      <p><a href="https://www.youtube.com/channel/UCq2wdua2lFdQj1hmqKda0Rw">касание</a></p>
+      <p><a href="https://www.youtube.com/channel/UCNpdKmV1hHFuKM6DUxGMOBw">CUPSIZE</a></p>
       <h2>Вот мой текущий трек на Spotify:</h2>
     </td>
+
     <td valign="middle" align="right">
       <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bihmjsaopxfpvd3almmolzk6cu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true"
