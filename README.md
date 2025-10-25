@@ -10,9 +10,6 @@
   <a href="https://www.youtube.com/@someotb" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="60" height="60"/>
   </a>
-  <a href="https://discord.gg/yamasemen" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="60" height="60"/>
-  </a>
   <a href="https://t.me/watashia12" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" alt="Telegram" width="60" height="60"/>
   </a>
@@ -66,8 +63,8 @@
 ## Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someotb&langs_count=8&theme=tokyonight&hide_border=true&hide=TeX,makefile" alt="Top Langs" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=someotb&layout=compact&langs_count=8&theme=tokyonight" alt="Waka Time Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someotb&langs_count=8&theme=dark&hide_border=true&hide=TeX,makefile" alt="Top Langs" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=someotb&layout=compact&langs_count=8&theme=dark&v=2" alt="Waka Time Stats" width="400" />
 </p>
 
 ## Achievements & Certifications
