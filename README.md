@@ -32,7 +32,6 @@
       <p><a href="https://www.youtube.com/channel/UCNpdKmV1hHFuKM6DUxGMOBw">CUPSIZE</a></p>
       <h2>Вот мой текущий трек на Spotify:</h2>
     </td>
-
     <td valign="middle" align="right">
       <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bihmjsaopxfpvd3almmolzk6cu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true"
