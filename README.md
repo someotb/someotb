@@ -69,7 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someotb&langs_count=8&theme=tokyonight&layout=compact&hide_border=true&hide=TeX,makefile" alt="Top Langs" width="400" />
 </p>
 
-[![someotb's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![someotb's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/someotb/github-readme-stats)
 
 ## Achievements & Certifications
 - 📡 Yadro Summer School "НА СВЯЗИ" 2024  
