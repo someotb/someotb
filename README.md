@@ -3,8 +3,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=someotb&label=Profile%20views&color=b422bf&style=flat)
 
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.youtube.com/@someotb" target="_blank">
@@ -57,8 +55,6 @@
     <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" width="60" height="60"/>
   </a>
 </p>
-
----
 
 ## Stats
 
