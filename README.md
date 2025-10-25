@@ -16,15 +16,18 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=someotb&theme=dark" alt="someotb" /></p>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    🎧 **Привет!**  
-    Люблю слушать музыку и писать код.
-  </div>
-  <div>
-    <a href="https://github.com/kittinan/spotify-github-profile">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bihmjsaopxfpvd3almmolzk6cu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">
-    </a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>🎧 Сейчас слушаю</h3>
+      <p>Люблю музыка, пишу ее иногда...</p>
+      <p>Вот мой текущий трек на Spotify:</p>   
+    </td>
+    <td>
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bihmjsaopxfpvd3almmolzk6cu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" width="300">
+      </a>
+    </td>
+  </tr>
+</table>
 
