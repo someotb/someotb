@@ -69,8 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someotb&langs_count=8&theme=tokyonight&layout=compact&hide_border=true&hide=TeX,makefile" alt="Top Langs" width="400" />
 </p>
 
-<div align="center">
-
 [![someotb's stats](https://github-readme-stats.vercel.app/api/wakatime?someotb=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Achievements & Certifications
@@ -94,6 +92,7 @@ I like coding and listening to music. My favorite bands:
 - [источник](https://www.youtube.com/@ustochnuk)
 - [касание](https://www.youtube.com/channel/UCq2wdua2lFdQj1hmqKda0Rw)
 - [CUPSIZE](https://www.youtube.com/channel/UCNpdKmV1hHFuKM6DUxGMOBw)
+
 
 ### My current Spotify track
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bihmjsaopxfpvd3almmolzk6cu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
