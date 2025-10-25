@@ -16,11 +16,21 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=someotb&theme=dark" alt="someotb" /></p>
 
-<table cellspacing="0" cellpadding="0" border="0" style="border-color:#0d1117">
+<table>
   <tr>
     <td valign="middle" align="left">
-      <h3>🎧 Сейчас слушаю</h3>
-      <p>Люблю код и музыку. Вот мой текущий трек на Spotify:</p>
+      <p>Люблю код и музыку. Мои любимые исполнители:</p>
+      <p>[nutakoe](https://www.youtube.com/@Vertfil)</p>
+      <p>[Two Door Cinema Club](https://www.youtube.com/channel/UC21j22BUI19MJ6F8IrxnjJg)</p>
+      <p>[Hippie Sabotage](https://www.youtube.com/@HippieSabotage)</p>
+      <p>[ПОШЛАЯ МОЛЛИ](https://www.youtube.com/@poshlayamolly)</p>
+      <p>[Stephen](https://www.youtube.com/channel/UCWBRy5_pT-KAO8NFaGeETHg)</p>
+      <p>[FACE](https://www.youtube.com/@facemoney)</p>
+      <p>[ssshhhiiittt!!!](https://www.youtube.com/channel/UC9buQ3siM6ebgh_tEwWaGAg)</p>
+      <p>[источник](https://www.youtube.com/@ustochnuk)</p>
+      <p>[касание](https://www.youtube.com/channel/UCq2wdua2lFdQj1hmqKda0Rw)</p>
+      <p>[CUPSIZE](https://www.youtube.com/channel/UCNpdKmV1hHFuKM6DUxGMOBw)</p>
+      <h2>Вот мой текущий трек на Spotify:</h2>
     </td>
     <td valign="middle" align="right">
       <a href="https://github.com/kittinan/spotify-github-profile">
