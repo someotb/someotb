@@ -16,16 +16,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=someotb&theme=dark" alt="someotb" /></p>
 
-<table>
-  <tr>
-    <td> 
-      Я люблю музыку и код,  
-      а ниже — мой текущий Spotify трек ⬇️
-    </td>
-    <td>
-      <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bihmjsaopxfpvd3almmolzk6cu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    🎧 **Привет!**  
+    Люблю слушать музыку и писать код.
+  </div>
+  <div>
+    <a href="https://github.com/kittinan/spotify-github-profile">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bihmjsaopxfpvd3almmolzk6cu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">
+    </a>
+  </div>
+</div>
+
