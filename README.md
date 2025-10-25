@@ -63,10 +63,10 @@
 ## Stats
 
 <p align="centre">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someotb&langs_count=8&theme=dark&hide_border=true&hide=TeX,makefile" alt="Top Langs" width="800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someotb&langs_count=8&theme=dark&hide_border=true&hide=TeX,makefile" alt="Top Langs" width="850" height="400" />
 </p>
 <p align="centre">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=someotb&layout=compact&langs_count=8&theme=dark&v=2" alt="Waka Time Stats" width="800" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=someotb&layout=compact&langs_count=8&theme=dark&v=2" alt="Waka Time Stats" width="850" height="400" />
 </p>
 
 ## Achievements & Certifications
