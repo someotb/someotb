@@ -16,7 +16,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=someotb&theme=dark" alt="someotb" /></p>
 
-<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<table cellspacing="0" cellpadding="0" border="0" style="border-color:#0d1117">
   <tr>
     <td valign="middle" align="left">
       <h3>🎧 Сейчас слушаю</h3>
@@ -30,6 +30,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
