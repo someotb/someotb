@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirill(someotb)</h1>
 <h3 align="center">A student from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=someotb&label=Profile%20views&color=b422bf&style=flat" alt="someotb" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=someotb&label=Profile%20views&color=b422bf&style=flat" alt="someotb" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,3 +15,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=someotb&show_icons=true&theme=dark&hide_border=true&locale=en" alt="someotb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=someotb&theme=dark" alt="someotb" /></p>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bihmjsaopxfpvd3almmolzk6cu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
