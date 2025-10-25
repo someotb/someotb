@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td valign="middle" align="left">
-      <p>Люблю код и музыку. Мои любимые исполнители:</p>
+      <p>I like coding and listening to music, my favorite bands:</p>
       <p><a href="https://www.youtube.com/@Vertfil">nutakoe</a></p>
       <p><a href="https://www.youtube.com/channel/UC21j22BUI19MJ6F8IrxnjJg">Two Door Cinema Club</a></p>
       <p><a href="https://www.youtube.com/@HippieSabotage">Hippie Sabotage</a></p>
