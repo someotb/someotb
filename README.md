@@ -18,16 +18,16 @@
 
 <table>
   <tr>
-    <td>
+    <td valign="middle">
       <h3>🎧 Сейчас слушаю</h3>
-      <p>Люблю музыка, пишу ее иногда...</p>
-      <p>Вот мой текущий трек на Spotify:</p>   
+      <p>Люблю код и музыку. Вот мой текущий трек на Spotify:</p>
     </td>
-    <td>
+    <td valign="middle">
       <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bihmjsaopxfpvd3almmolzk6cu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" width="300">
       </a>
     </td>
   </tr>
 </table>
+
 
