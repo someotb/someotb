@@ -67,10 +67,8 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someotb&langs_count=8&theme=tokyonight&hide_border=true&hide=TeX,makefile" alt="Top Langs" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=someotb&layout=compact&langs_count=8&theme=tokyonight" alt="Waka Time Stats" width="400" />
 </p>
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=someotb&layout=compact&langs_count=8&theme=tokyonight)
-
 
 ## Achievements & Certifications
 - 📡 Yadro Summer School "НА СВЯЗИ" 2024  
