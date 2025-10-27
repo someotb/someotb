@@ -56,19 +56,19 @@
 
 
 ## Achievements & Certifications
-- 📡 Yadro Summer School "НА СВЯЗИ" 2024  
-- 📶 Yadro Summer School "НА СВЯЗИ" 2025
-- 🎓 **Eltex** — *Fundamentals of Network Technologies* (Part 1)  
-- 🎓 **Eltex** — *Fundamentals of Network Technologies* (Part 2)
-- 🐍 **Stepik** — *Python с Сергеем Балакиревым*
-- 🖧 **Cisco** — *CCNA Packet Tracer Labs (Unofficial)*  
+- Yadro Summer School "НА СВЯЗИ" 2024  
+- Yadro Summer School "НА СВЯЗИ" 2025
+- **Eltex** — *Fundamentals of Network Technologies* (Part 1)  
+- **Eltex** — *Fundamentals of Network Technologies* (Part 2)
+- **Stepik** — *Python с Сергеем Балакиревым*
+- **Cisco** — *CCNA Packet Tracer Labs (Unofficial)*  
 
 ## Music I Like
-I like coding and listening to music. My favorite bands:
+I like coding and listening to music. My favorite bands and artists:
 
 - [nutakoe](https://www.youtube.com/@Vertfil)
-- [Two Door Cinema Club](https://www.youtube.com/channel/UC21j22BUI19MJ6F8IrxnjJg)
 - [Hippie Sabotage](https://www.youtube.com/@HippieSabotage)
+- [Two Door Cinema Club](https://www.youtube.com/channel/UC21j22BUI19MJ6F8IrxnjJg)
 - [ПОШЛАЯ МОЛЛИ](https://www.youtube.com/@poshlayamolly)
 - [Stephen](https://www.youtube.com/channel/UCWBRy5_pT-KAO8NFaGeETHg)
 - [FACE](https://www.youtube.com/@facemoney)
