@@ -40,10 +40,20 @@
 
 ## Stats
 
-<div style="display: grid; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someotb&langs_count=8&layout=compact&theme=dark&hide_border=true&hide=TeX,makefile" alt="Top Langs" width="500" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=someotb&layout=compact&hide_border=true&langs_count=8&theme=dark&v=2" alt="Waka Time Stats" width="500"/>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=someotb&langs_count=8&layout=compact&theme=dark&hide_border=true&hide=TeX,makefile"
+    alt="Top Langs"
+    width="500"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=someotb&layout=compact&hide_border=true&langs_count=8&theme=dark&v=2"
+    alt="WakaTime Stats"
+    width="500"
+  />
 </div>
+
 
 ## Achievements & Certifications
 - 📡 Yadro Summer School "НА СВЯЗИ" 2024  
