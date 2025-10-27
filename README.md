@@ -1,5 +1,5 @@
-# Hi 👋, I'm Kirill (someotb)
-### Student at the Siberian State University of Informatics and Telecommunications
+# Hello! I'm someotb 
+### Student at the Siberian State University of Telecommunications and Informatics 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=someotb&label=Profile%20views&color=b422bf&style=flat)
 
@@ -15,9 +15,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="60" height="60"/>
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
   </a>
@@ -26,12 +23,6 @@
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
@@ -42,26 +33,17 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="60" height="60"/>
-  </a>
   <a href="https://www.mathworks.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="60" height="60"/>
-  </a>
-  <a href="https://canvasjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" width="60" height="60"/>
   </a>
 </p>
 
 ## Stats
 
-<p align="centre">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someotb&langs_count=8&theme=dark&hide_border=true&hide=TeX,makefile" alt="Top Langs" width="421" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=someotb&layout=compact&langs_count=8&theme=dark&v=2" alt="Waka Time Stats" width="421"/>
-</p>
+<div style="display: grid; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someotb&langs_count=8&layout=compact&theme=dark&hide_border=true&hide=TeX,makefile" alt="Top Langs" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=someotb&layout=compact&hide_border=true&langs_count=8&theme=dark&v=2" alt="Waka Time Stats" width="500"/>
+</div>
 
 ## Achievements & Certifications
 - 📡 Yadro Summer School "НА СВЯЗИ" 2024  
