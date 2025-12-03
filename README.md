@@ -41,7 +41,7 @@
 
 ## Stats
 
-<div align="center">
+<div align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=someotb&langs_count=8&layout=compact&theme=dark&hide_border=true&hide=TeX,makefile"
     alt="Top Langs"
