@@ -46,6 +46,8 @@
     alt="Top Langs"
     width="500"
   />
+
+  [![wakatime](https://wakatime.com/badge/user/89e4b11e-fdcc-48ed-b469-5d90e882a894/project/47f32c41-dc22-4d89-8e52-16340b3c387c.svg)](https://wakatime.com/badge/user/89e4b11e-fdcc-48ed-b469-5d90e882a894/project/47f32c41-dc22-4d89-8e52-16340b3c387c)
 </div>
 
 
