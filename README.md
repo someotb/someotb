@@ -39,17 +39,6 @@
   </a>
 </p>
 
-## Stats
-
-<div align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=someotb&langs_count=8&layout=compact&theme=dark&hide_border=true&hide=TeX,makefile"
-    alt="Top Langs"
-    width="500"
-  />
-</div>
-
-
 ## Achievements & Certifications
 - Yadro Summer School "НА СВЯЗИ" 2024  
 - Yadro Summer School "НА СВЯЗИ" 2025
