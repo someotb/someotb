@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,youtube,docker,git,github,linux,vscode, zed" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,docker,git,github,linux,vscode, zed" />
 </p>
 
 ## Achievements & Certifications
