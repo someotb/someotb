@@ -43,4 +43,4 @@ I like coding and listening to music. My favorite bands and artists:
   </a>
 </p>
 
-> You can contact me via telegram[t.me/watashia12]
+> You can contact me on [Telegram](t.me/watashia12)
