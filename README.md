@@ -42,3 +42,5 @@ I like coding and listening to music. My favorite bands and artists:
     />
   </a>
 </p>
+
+> You can contact me via telegram[t.me/watashia12]
