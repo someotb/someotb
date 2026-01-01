@@ -1,9 +1,9 @@
 # Hello! I'm someotb 
-### Student at the Siberian State University of Telecommunications and Informatics 
+## Student at the Siberian State University of Telecommunications and Informatics 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=someotb&label=Profile%20views&color=b422bf&style=flat)
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,matlab,docker,git,github,linux,vscode" />
 </p>
@@ -31,7 +31,7 @@ I like coding and listening to music. My favorite bands and artists:
 - [CUPSIZE](https://www.youtube.com/channel/UCNpdKmV1hHFuKM6DUxGMOBw)
 
 
-### My current Spotify track
+## My current Spotify track
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31bihmjsaopxfpvd3almmolzk6cu&redirect=true">
     <img
