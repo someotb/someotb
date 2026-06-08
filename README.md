@@ -19,17 +19,13 @@
 ## Music I Like
 I like coding and listening to music. My favorite bands and artists:
 
-- [nutakoe](https://www.youtube.com/@Vertfil)
 - [Hippie Sabotage](https://www.youtube.com/@HippieSabotage)
 - [Two Door Cinema Club](https://www.youtube.com/channel/UC21j22BUI19MJ6F8IrxnjJg)
-- [ПОШЛАЯ МОЛЛИ](https://www.youtube.com/@poshlayamolly)
 - [Stephen](https://www.youtube.com/channel/UCWBRy5_pT-KAO8NFaGeETHg)
-- [FACE](https://www.youtube.com/@facemoney)
 - [ssshhhiiittt!!!](https://www.youtube.com/channel/UC9buQ3siM6ebgh_tEwWaGAg)
 - [источник](https://www.youtube.com/@ustochnuk)
 - [касание](https://www.youtube.com/channel/UCq2wdua2lFdQj1hmqKda0Rw)
 - [CUPSIZE](https://www.youtube.com/channel/UCNpdKmV1hHFuKM6DUxGMOBw)
-
 
 ## My current Spotify track
 <p align="center">
