@@ -27,15 +27,4 @@ I like coding and listening to music. My favorite bands and artists:
 - [касание](https://www.youtube.com/channel/UCq2wdua2lFdQj1hmqKda0Rw)
 - [CUPSIZE](https://www.youtube.com/channel/UCNpdKmV1hHFuKM6DUxGMOBw)
 
-## My current Spotify track
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31bihmjsaopxfpvd3almmolzk6cu&redirect=true">
-    <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bihmjsaopxfpvd3almmolzk6cu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true"
-      width="800"
-      alt="Spotify Now Playing"
-    />
-  </a>
-</p>
-
 > You can contact me on [Telegram](https://t.me/watashia12)
